@@ -8,7 +8,7 @@ require (
 	github.com/hxx258456/ccgo v0.0.0-20220713014314-f372bff24eff
 	github.com/hxx258456/fabric-protos-go-cc v0.0.0-20220714073103-d4d8369ba551
 	github.com/onsi/gomega v1.19.0
-	google.golang.org/protobuf v1.26.0
+	google.golang.org/protobuf v1.26.0 // indirect
 )
 
 require (
